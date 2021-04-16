@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-14T04:52:07.053Z</updated>
+  <updated>2021-04-16T02:27:42.299Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>A high-speed BCI based on code modulation VEP</title>
+    <link href="http://example.com/2021/04/15/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%BC%96%E7%A0%81%E8%B0%83%E5%88%B6VEP%E7%9A%84%E9%AB%98%E9%80%9F%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3/"/>
+    <id>http://example.com/2021/04/15/%E4%B8%80%E7%A7%8D%E5%9F%BA%E4%BA%8E%E7%BC%96%E7%A0%81%E8%B0%83%E5%88%B6VEP%E7%9A%84%E9%AB%98%E9%80%9F%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3/</id>
+    <published>2021-04-15T09:22:35.425Z</published>
+    <updated>2021-04-16T02:27:42.299Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="0-总结"><a href="#0-总结" class="headerlink" title="0. 总结"></a>0. 总结</h2><p>写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。注：写文章summary切记需要通过自己的思考，用自己的语言描述。忌讳直接Ctrl + c原文。</p><h2 id="1-研究目标"><a href="#1-研究目标" class="headerlink" title="1. 研究目标"></a>1. 研究目标</h2><p>本文提出了一种基于视觉诱发电位编码调制(c-VEP)的高速脑机接口。32个目标刺激由时移二进制伪随机序列调制。采用基于典型相关分析(CCA)的多通道识别方法进行目标识别。</p><h2 id="2-研究背景及问题陈述"><a href="#2-研究背景及问题陈述" class="headerlink" title="2. 研究背景及问题陈述"></a>2. 研究背景及问题陈述</h2><p>基于视觉诱发电位(VEP)的脑机接口(BCI)因其用户训练少、使用方便、ITR高等优点而受到越来越多的关注。与其他类型的基于视觉诱发电位的脑梗死相比，c-VEP脑梗死具有许多优点，包括增加了目标数目(16个目标)和更高的信噪比(92.8士14.1bitmin−1）</p><h2 id="3-研究方法"><a href="#3-研究方法" class="headerlink" title="3. 研究方法"></a>3. 研究方法</h2><p><img src="https://raw.githubusercontent.com/zyxaxx/image/master/data/20210416102217.png" alt="image-20210416102210407"></p><p>图1.c-VEP脑机接口的框图</p><h2 id="4-评估，实验"><a href="#4-评估，实验" class="headerlink" title="4. 评估，实验"></a>4. 评估，实验</h2><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a>5. 结论</h2><h2 id="6-笔记"><a href="#6-笔记" class="headerlink" title="6. 笔记"></a>6. 笔记</h2><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
+    
+    
+    <summary type="html">一种基于编码调制VEP的高速脑机接口</summary>
+    
+    
+    
+    <category term="论文" scheme="http://example.com/categories/%E8%AE%BA%E6%96%87/"/>
+    
+    
+    <category term="编码调制VEP" scheme="http://example.com/tags/%E7%BC%96%E7%A0%81%E8%B0%83%E5%88%B6VEP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Frequency Recognition Based on Canonical Correlation Analysis for SSVEP-Based BCIs</title>
     <link href="http://example.com/2021/04/14/%E5%9F%BA%E4%BA%8E%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3%E5%88%86%E6%9E%90%E7%9A%84%E5%9F%BA%E4%BA%8ESSVEP%E7%9A%84BCI%E9%A2%91%E7%8E%87%E8%AF%86%E5%88%AB/"/>
     <id>http://example.com/2021/04/14/%E5%9F%BA%E4%BA%8E%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3%E5%88%86%E6%9E%90%E7%9A%84%E5%9F%BA%E4%BA%8ESSVEP%E7%9A%84BCI%E9%A2%91%E7%8E%87%E8%AF%86%E5%88%AB/</id>
     <published>2021-04-14T04:43:42.247Z</published>
-    <updated>2021-04-14T04:52:07.053Z</updated>
+    <updated>2021-04-16T03:01:18.662Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="0-总结"><a href="#0-总结" class="headerlink" title="0. 总结"></a>0. 总结</h2><p>写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。注：写文章summary切记需要通过自己的思考，用自己的语言描述。忌讳直接Ctrl + c原文。</p><h2 id="1-研究目标"><a href="#1-研究目标" class="headerlink" title="1. 研究目标"></a>1. 研究目标</h2><p>采用典型相关分析（Canonical correlation analysis，CCA）对脑电中稳态视觉诱发电位（steady-state visual evoked potentials，SSVEP）进行频率分析。</p><h2 id="2-研究背景及问题陈述"><a href="#2-研究背景及问题陈述" class="headerlink" title="2. 研究背景及问题陈述"></a>2. 研究背景及问题陈述</h2><p>在SSVEP的BCI中使用最广泛的频率检测方法是基于功率谱密度的分析（ power spectral density based analysis，PSDA），在时间窗口内从用户的EEG信号估计功率谱密度，并随后检测其峰值。将与该峰值对应的频率作为视觉刺激频率。周期图是一种非参数功率谱估计方法，可以直接从离散傅立叶变换(DFT)计算。因此，可以利用快速傅立叶变换(FFT)进行计算，计算量小。与参数功率谱估计方法相比，周期图不需要先验阶次选择步骤，易于实现。此外，当数据受到噪声污染时，周期图法已被证明比参数估计方法更稳健。</p><p>PSDA缺点：单通道易受噪声干扰。</p><p>因此，使用信道协方差信息的典型相关分析，用以提高信噪比（signal-to-noise ratio，SNR）。</p><h2 id="3-研究方法"><a href="#3-研究方法" class="headerlink" title="3. 研究方法"></a>3. 研究方法</h2><p>CCA是一种多变量统计方法，当有两组数据时使用，这两组数据可能有一些潜在的相关性。CCA将普通相关性扩展到两组变量[6]、[7]。首先，CCA为两个集合找到一对线性组合，称为规范变量，使得两个规范变量之间的相关性最大化。然后，它找到第二对，它与第一对规范变量不相关，但具有次高的相关性。</p><p>每个键以一定频率闪烁，构成频率编码矩阵（frequency-coded matrix），当受试者凝视其中一个键时，相应的SSVEP就会出现。</p><h2 id="4-评估，实验"><a href="#4-评估，实验" class="headerlink" title="4. 评估，实验"></a>4. 评估，实验</h2><p>实现方法：被试通过注视LED面板中特定频率闪烁的LED来执行操作指令，在受试者的脑电图中会诱发和观察到与闪烁LED的基频相似的SSVEP。</p><p>与PSDA进行对比，采用256点快速傅里叶变换。</p><p>采用交叉验证设计对两种方法进行评价。将样本数据集分为用于信道选择的训练集和用于测试频率识别性能的测试集。对于每个系统，从所有刺激频率中随机截取的30秒长的信号构成训练集。其余30秒长的信号组成了测试集。从这些测试集中随机选择900个长度为s的信号段(对于单个频率为100个)，并执行频率识别。分析重复了10次。研究了对识别率的影响。准确率定义为正确判断刺激频率的样本(信号段)的百分比。设为识别算法确定的频率，为样本的真实刺激频率。那么精确度可以表示为</p><p><img src="https://raw.githubusercontent.com/zyxaxx/image/master/data/20210414124734.png" alt="image-20210414102959251"></p><p>采样率900</p><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a>5. 结论</h2><p><img src="https://raw.githubusercontent.com/zyxaxx/image/master/data/20210414124736.png" alt="image-20210414103438716"></p><p>使用这两种方法对不同受试者的时间窗长度的准确度和标准偏差。实线和虚线分别代表CCA和PSDA方法的结果。结果表明，在不同的时间窗长度下，CCA方法对大多数受试者(受试者NTS除外)的识别率均高于PSDA方法。</p><p><img src="https://raw.githubusercontent.com/zyxaxx/image/master/data/20210414124738.png" alt="image-20210414103513265"></p><p>受试者的平均准确率和配对t检验结果。黑条和白条分别代表CCA方法和PSDA方法的平均值。配对t检验的意义用星号表示，其中*代表p&lt;0：05，**代表p&lt;0：01。结果表明，在大多数时间窗口长度上，CCA方法明显优于PSDA方法。</p><h2 id="6-笔记"><a href="#6-笔记" class="headerlink" title="6. 笔记"></a>6. 笔记</h2><p>CCA精度不算所有算法中最高的，但是计算速度较快，易于理解，可以用于在线分析。</p><p>本论文只分析了的最大CCA系数，因为它传递的信息最多。这在理想条件下是正确的。然而，真实的脑电信号可能会受到噪声的污染，或者可能具有不连续的相变。这些因素导致信息传播到不止一个系数上。并且对于人类视觉系统来说，本文假设为线性，实际可能为非线性。</p><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="0-总结"><a href="#0-总结" class="headerlink" title="0. 总结"></a>0. 总结</h2><p>写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。注：写文章summary切记需要通过自己的思考，用自己的语言描述。忌讳直接Ctrl + c原文。</p><h2 id="1-研究目标"><a href="#1-研究目标" class="headerlink" title="1. 研究目标"></a>1. 研究目标</h2><p>采用典型相关分析（Canonical correlation analysis，CCA）对脑电中稳态视觉诱发电位（steady-state visual evoked potentials，SSVEP）进行频率分析。</p><h2 id="2-研究背景及问题陈述"><a href="#2-研究背景及问题陈述" class="headerlink" title="2. 研究背景及问题陈述"></a>2. 研究背景及问题陈述</h2><p>在SSVEP的BCI中使用最广泛的频率检测方法是基于功率谱密度的分析（ power spectral density based analysis，PSDA），在时间窗口内从用户的EEG信号估计功率谱密度，并随后检测其峰值。将与该峰值对应的频率作为视觉刺激频率。周期图是一种非参数功率谱估计方法，可以直接从离散傅立叶变换(DFT)计算。因此，可以利用快速傅立叶变换(FFT)进行计算，计算量小。与参数功率谱估计方法相比，周期图不需要先验阶次选择步骤，易于实现。此外，当数据受到噪声污染时，周期图法已被证明比参数估计方法更稳健。</p><p>PSDA缺点：单通道易受噪声干扰。</p><p>因此，使用信道协方差信息的典型相关分析，用以提高信噪比（signal-to-noise ratio，SNR）。</p><h2 id="3-研究方法"><a href="#3-研究方法" class="headerlink" title="3. 研究方法"></a>3. 研究方法</h2><p>CCA是一种多变量统计方法，当有两组数据时使用，这两组数据可能有一些潜在的相关性。CCA将普通相关性扩展到两组变量[6]、[7]。首先，CCA为两个集合找到一对线性组合，称为规范变量，使得两个规范变量之间的相关性最大化。然后，它找到第二对，它与第一对规范变量不相关，但具有次高的相关性。</p><p>每个键以一定频率闪烁，构成频率编码矩阵（frequency-coded matrix），当受试者凝视其中一个键时，相应的SSVEP就会出现。</p><h2 id="4-评估，实验"><a href="#4-评估，实验" class="headerlink" title="4. 评估，实验"></a>4. 评估，实验</h2><p>实现方法：被试通过注视LED面板中特定频率闪烁的LED来执行操作指令，在受试者的脑电图中会诱发和观察到与闪烁LED的基频相似的SSVEP。</p><p>与PSDA进行对比，采用256点快速傅里叶变换。</p><p>采用交叉验证设计对两种方法进行评价。将样本数据集分为用于信道选择的训练集和用于测试频率识别性能的测试集。对于每个系统，从所有刺激频率中随机截取的30秒长的信号构成训练集。其余30秒长的信号组成了测试集。从这些测试集中随机选择900个长度为s的信号段(对于单个频率为100个)，并执行频率识别。分析重复了10次。研究了对识别率的影响。准确率定义为正确判断刺激频率的样本(信号段)的百分比。设为识别算法确定的频率，为样本的真实刺激频率。那么精确度可以表示为</p><p><img src="https://gitee.com/zyxaxx/warehouse/raw/master/img/20210416110041.png" alt="image-20210414102959251"></p><p>采样率900</p><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a>5. 结论</h2><p><img src="https://gitee.com/zyxaxx/warehouse/raw/master/img/20210416110049.png" alt="image-20210414103438716"></p><p>使用这两种方法对不同受试者的时间窗长度的准确度和标准偏差。实线和虚线分别代表CCA和PSDA方法的结果。结果表明，在不同的时间窗长度下，CCA方法对大多数受试者(受试者NTS除外)的识别率均高于PSDA方法。</p><p><img src="https://gitee.com/zyxaxx/warehouse/raw/master/img/20210416110104.png" alt="image-20210414103513265"></p><p>受试者的平均准确率和配对t检验结果。黑条和白条分别代表CCA方法和PSDA方法的平均值。配对t检验的意义用星号表示，其中*代表p&lt;0：05，**代表p&lt;0：01。结果表明，在大多数时间窗口长度上，CCA方法明显优于PSDA方法。</p><h2 id="6-笔记"><a href="#6-笔记" class="headerlink" title="6. 笔记"></a>6. 笔记</h2><p>CCA精度不算所有算法中最高的，但是计算速度较快，易于理解，可以用于在线分析。</p><p>本论文只分析了的最大CCA系数，因为它传递的信息最多。这在理想条件下是正确的。然而，真实的脑电信号可能会受到噪声的污染，或者可能具有不连续的相变。这些因素导致信息传播到不止一个系数上。并且对于人类视觉系统来说，本文假设为线性，实际可能为非线性。</p><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
     
     
     <summary type="html">基于典型相关分析的基于SSVEP的BCI频率识别</summary>
