@@ -4,30 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="2021/05/09/%E5%9F%BA%E4%BA%8E%E8%84%91%E7%94%B5%E7%9A%84%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95%E7%BB%BC%E8%BF%B0/"/>
-      <url>2021/05/09/%E5%9F%BA%E4%BA%8E%E8%84%91%E7%94%B5%E7%9A%84%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95%E7%BB%BC%E8%BF%B0/</url>
-      
-        <content type="html"><![CDATA[<h2 id="0-总结"><a href="#0-总结" class="headerlink" title="0. 总结"></a>0. 总结</h2><p>写完笔记之后最后填，概述文章的内容，以后查阅笔记的时候先看这一段。注：写文章summary切记需要通过自己的思考，用自己的语言描述。忌讳直接Ctrl + c原文。</p><h2 id="1-研究目标"><a href="#1-研究目标" class="headerlink" title="1. 研究目标"></a>1. 研究目标</h2><p><img src="test/image-20210414120832812.png" alt="image-20210414120832812"></p><h2 id="2-研究背景及问题陈述"><a href="#2-研究背景及问题陈述" class="headerlink" title="2. 研究背景及问题陈述"></a>2. 研究背景及问题陈述</h2><h2 id="3-研究方法"><a href="#3-研究方法" class="headerlink" title="3. 研究方法"></a>3. 研究方法</h2><h2 id="4-评估，实验"><a href="#4-评估，实验" class="headerlink" title="4. 评估，实验"></a>4. 评估，实验</h2><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a>5. 结论</h2><h2 id="6-笔记"><a href="#6-笔记" class="headerlink" title="6. 笔记"></a>6. 笔记</h2><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 论文 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>A Comparison of Visual Evoked Potential (VEP)-Based Methods for the Low-Cost Emotiv EPOC Neuroheadset</title>
       <link href="2021/05/07/%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87-%E5%9F%BA%E4%BA%8E%E8%A7%86%E8%A7%89%E8%AF%B1%E5%8F%91%E7%94%B5%E4%BD%8D(VEP)%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%ACEmotiv%20EPOC%E7%A5%9E%E7%BB%8F%E8%80%B3%E6%9C%BA%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E6%AF%94%E8%BE%83/"/>
       <url>2021/05/07/%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87-%E5%9F%BA%E4%BA%8E%E8%A7%86%E8%A7%89%E8%AF%B1%E5%8F%91%E7%94%B5%E4%BD%8D(VEP)%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%ACEmotiv%20EPOC%E7%A5%9E%E7%BB%8F%E8%80%B3%E6%9C%BA%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E6%AF%94%E8%BE%83/</url>
       
-        <content type="html"><![CDATA[<h2 id="0-总结"><a href="#0-总结" class="headerlink" title="0. 总结"></a>0. 总结</h2><p>本文的结构遵循1.3节所述的双重研究方法。第二章向读者介绍理解后面章节所需的背景知识。本章介绍了脑电信号的分析、10-20系统、BCI的概念以及本文使用的Emotiv  EPOC耳机。第二章的末尾描述了用于进行单反的结构化文献回顾方案。第三章介绍了通过SLR所发现的工作，并对核心理论和技术进行了说明。第四章是论文的实践部分，描述了所实现的视觉诱发电位系统，并说明了所做选择的合理性。在第五章中，描述了所做的实验和所获得的结果。最后，第六章对研究结果进行了评价，并对论文进行了整体评价。</p><h2 id="1-研究目标"><a href="#1-研究目标" class="headerlink" title="1. 研究目标"></a>1. 研究目标</h2><h3 id="研究问题1"><a href="#研究问题1" class="headerlink" title="研究问题1"></a>研究问题1</h3><p>哪些技术可以用来对脑电图数据中出现的视觉诱发电位进行分类？</p><p>为了能够比较技术，收集关于脑-机接口领域中现有视觉诱发电位技术的信息是必不可少的。</p><h3 id="研究问题2"><a href="#研究问题2" class="headerlink" title="研究问题2"></a>研究问题2</h3><p>系统如何比较基于视觉诱发电位的脑-机接口方法的实施和配置？</p><p>研究问题1旨在收集有关视觉诱发电位技术的理论信息，而研究问题2解决的是实际实施基于视觉诱发电位的系统的问题。基于视觉诱发电位的脑机接口通常由两部分组成；一部分向用户提供刺激，另一部分处理来自用户的脑电响应并输出预测的命令。这两个部分都需要研究。刺激计划可以通过多种方式进行配置，目标之一就是找到配置该计划的最佳方式。</p><h2 id="2-研究背景及问题陈述"><a href="#2-研究背景及问题陈述" class="headerlink" title="2. 研究背景及问题陈述"></a>2. 研究背景及问题陈述</h2><h2 id="3-研究方法"><a href="#3-研究方法" class="headerlink" title="3. 研究方法"></a>3. 研究方法</h2><p>本文采用的研究方法是理论研究和设计/实验相结合。在实施任何方法之前，进行了结构化的文献回顾(SLR)。SLR的目的是找到关于在该领域内已经做了什么的信息，基于视觉诱发电位的脑梗死有哪些不同的方法，以及刺激系统是如何实施的。设计/实验阶段实现了一个完整的基于视觉诱发电位的脑机接口，包括多种视觉诱发电位技术和视觉刺激器。然后，在多个测试对象上测试不同的VEP技术，以评估哪些技术在Emotiv  EPOC上效果最好。</p><p>设计/实验阶段实现了一个完整的基于视觉诱发电位的脑机接口，包括多种视觉诱发电位技术和视觉刺激器。然后，在多个测试对象上测试不同的VEP技术，以评估哪些技术在Emotiv  EPOC上效果最好。</p><h2 id="4-评估，实验"><a href="#4-评估，实验" class="headerlink" title="4. 评估，实验"></a>4. 评估，实验</h2><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a>5. 结论</h2><h2 id="6-笔记"><a href="#6-笔记" class="headerlink" title="6. 笔记"></a>6. 笔记</h2><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="0-总结"><a href="#0-总结" class="headerlink" title="0. 总结"></a>0. 总结</h2><p>机器学习方法是脑-机接口研究中最流行的分类方法，线性判别分析(LDA)和支持向量机(SVMs)等线性分类器是最流行的算法[31]。</p><p>研究脑机接口分为两种</p><p>视觉诱发电位VEPs：T-VEP  SSVEP（f-VEP） c-VEP</p><h2 id="1-研究目标"><a href="#1-研究目标" class="headerlink" title="1. 研究目标"></a>1. 研究目标</h2><h3 id="研究问题1"><a href="#研究问题1" class="headerlink" title="研究问题1"></a>研究问题1</h3><p>哪些技术可以用来对脑电图数据中出现的视觉诱发电位进行分类？</p><p>为了能够比较技术，收集关于脑-机接口领域中现有视觉诱发电位技术的信息是必不可少的。</p><h3 id="研究问题2"><a href="#研究问题2" class="headerlink" title="研究问题2"></a>研究问题2</h3><p>系统如何比较基于视觉诱发电位的脑-机接口方法的实施和配置？</p><p>研究问题1旨在收集有关视觉诱发电位技术的理论信息，而研究问题2解决的是实际实施基于视觉诱发电位的系统的问题。基于视觉诱发电位的脑机接口通常由两部分组成；一部分向用户提供刺激，另一部分处理来自用户的脑电响应并输出预测的命令。这两个部分都需要研究。刺激计划可以通过多种方式进行配置，目标之一就是找到配置该计划的最佳方式。</p><h2 id="2-研究背景及问题陈述"><a href="#2-研究背景及问题陈述" class="headerlink" title="2. 研究背景及问题陈述"></a>2. 研究背景及问题陈述</h2><p>本文的结构遵循1.3节所述的双重研究方法。第二章向读者介绍理解后面章节所需的背景知识。本章介绍了脑电信号的分析、10-20系统、BCI的概念以及本文使用的Emotiv  EPOC耳机。第二章的末尾描述了用于进行单反的结构化文献回顾方案。第三章介绍了通过SLR所发现的工作，并对核心理论和技术进行了说明。第四章是论文的实践部分，描述了所实现的视觉诱发电位系统，并说明了所做选择的合理性。在第五章中，描述了所做的实验和所获得的结果。最后，第六章对研究结果进行了评价，并对论文进行了整体评价。</p><h2 id="3-研究方法"><a href="#3-研究方法" class="headerlink" title="3. 研究方法"></a>3. 研究方法</h2><p>本文采用的研究方法是理论研究和设计/实验相结合。在实施任何方法之前，进行了结构化的文献回顾(SLR)。SLR的目的是找到关于在该领域内已经做了什么的信息，基于视觉诱发电位的脑梗死有哪些不同的方法，以及刺激系统是如何实施的。设计/实验阶段实现了一个完整的基于视觉诱发电位的脑机接口，包括多种视觉诱发电位技术和视觉刺激器。然后，在多个测试对象上测试不同的VEP技术，以评估哪些技术在Emotiv  EPOC上效果最好。</p><p>设计/实验阶段实现了一个完整的基于视觉诱发电位的脑机接口，包括多种视觉诱发电位技术和视觉刺激器。然后，在多个测试对象上测试不同的VEP技术，以评估哪些技术在Emotiv  EPOC上效果最好。</p><h2 id="4-评估，实验"><a href="#4-评估，实验" class="headerlink" title="4. 评估，实验"></a>4. 评估，实验</h2><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a>5. 结论</h2><h2 id="6-笔记"><a href="#6-笔记" class="headerlink" title="6. 笔记"></a>6. 笔记</h2><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
       
       
       <categories>
@@ -92,7 +73,7 @@
     
     
     <entry>
-      <title></title>
+      <title>第三十三课：异常处理：try-except、try-finally、raise语句</title>
       <link href="2021/04/23/Python%E5%B0%8F%E7%94%B2%E9%B1%BC/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E8%AF%BE%EF%BC%9A%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%9Atry-except%E3%80%81try-finally%E3%80%81raise%E8%AF%AD%E5%8F%A5/"/>
       <url>2021/04/23/Python%E5%B0%8F%E7%94%B2%E9%B1%BC/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E8%AF%BE%EF%BC%9A%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%EF%BC%9Atry-except%E3%80%81try-finally%E3%80%81raise%E8%AF%AD%E5%8F%A5/</url>
       
@@ -101,10 +82,16 @@
       
       <categories>
           
-          <category> 论文 </category>
+          <category> Python </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
       
     </entry>
     
